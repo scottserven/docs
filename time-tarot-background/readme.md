@@ -17,7 +17,7 @@ available on your local machine.  This will make it easy to copy/paste the files
 
 ## AmbientCanvasBackgrounds Source
 Figuring out what to copy
-![source structure](images/ambient-background-structure.png)
+![source structure](images/ambient-backgrounds-structure.png)
 
 ### Folder Structure
 We have separate folders for **css**, **js**, and then several numbered **index** html files.
